@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="array_role_image">
+        <item >@drawable/role_ys</item>
+        <item >@drawable/role_ml</item>
+        <item >@drawable/role_amw</item>
+        <item >@drawable/role_hfb</item>
+        <item >@drawable/role_ytln</item>
+        <item >@drawable/role_nragw</item>
+        <item >@drawable/role_wk</item>
+        <item >@drawable/role_tmkr</item>       
+    </integer-array>
+    
+    <string-array name="array_role_name">
+        <item >张牧之</item>
+        <item > 黄四郎</item>
+        <item >马邦德</item>
+        <item >县长夫人</item>
+        <item >胡万 </item>
+        <item >花姐</item>
+        <item >武智冲 </item>
+  
+    </string-array>
+    
+    <string-array name="array_role_actor">
+        <item >姜文</item>
+        <item >周润发</item>
+        <item >葛优</item>
+        <item > 刘嘉玲</item>
+        <item > 陈坤 </item>
+        <item >周韵</item>
+        <item >姜武 </item>
+    </string-array>
+    
+    <string-array name="array_role_info">
+        <item >绰号“张麻子”。曾是蔡锷军中猛将，北洋战乱后落草为寇，成为纵横山野的绿林悍匪。他带领一帮弟兄劫了老汤的火车，却因此摇身一变化名清官“马邦德”上任鹅城，原本只想捞些实利的他，上任鹅城之后却雄心百倍，鹅城一霸黄四郎及其乡党欺男霸女的所作所为，激起了他从未泯灭的救国救民热情。</item>
+        <item >南国鹅城一霸，靠贩卖烟土发家致富，坐拥整片碉楼群落，坑蒙拐骗无恶不作，号令爪牙不可一世，让鹅城百姓敢怒不敢言。他对胆敢买官上任的“马邦德”充满兴趣，他以为此人不过又是一个只来掠夺钱财的草包，全然不知其真实身份竟是悍匪张牧之。 </item>
+        <item >马邦德本是买官上任的一个骗子，在上任的路上却被悍匪张牧之拦住，他和夫人也成了张牧之的阶下囚。为求保得性命，他灵机一动谎称自己是师爷老汤，并和张牧之踏上了进城当官的旅途。老汤游走在张牧之与黄四郎这两派的势力中，凭借狐狸一样的敏感和智慧，使他频频化险为夷。</item>
+        <item >原是老汤在青楼中结识的相好，在摄人心魄的妩媚容颜下，却有着一颗男人般的勃勃野心，天不怕地不怕，并跟着张牧之、老汤一行浪迹天涯。</item>
+        <item >黄四郎的贴身心腹，暗中主管鹅城大小事务，不但能作为助手献计献策，还常常亲自披挂上阵，欺压百姓颠倒是非，心狠手辣气焰嚣张。 </item>
+        <item >黄四郎所开艳阳楼中的奇女子，身怀一手打鼓绝技，其出淤泥而不染的气质不仅吸引了张牧之，也让他手下的小兄弟为之着迷。 </item>
+        <item >绰号“武举人”，黄四郎手下气力过人的团练教头，顶着一头卷毛乱发和络腮大胡，外在粗犷凶猛，内心却细腻矛盾，因而游走在善恶两端。</item>
+    </string-array>
+    
+</resources> 
+

@@ -1,0 +1,53 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+  	android:orientation="vertical"
+  	android:gravity="center_horizontal"
+    tools:context=".MainActivity" >
+
+    <ImageView
+        android:id="@+id/img_top"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="true"
+        android:src="@drawable/haibao2" />
+
+    <Button
+        android:id="@+id/btn_role"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btn_info"
+        android:layout_centerVertical="true"
+        android:background="@drawable/bg_button"
+        android:text="@string/text_btn_role" />
+
+    <Button
+        android:id="@+id/btn_actor"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btn_review"
+        android:layout_below="@+id/btn_role"
+        android:background="@drawable/bg_button"
+        android:text="@string/text_btn_actor" />
+
+    <Button
+        android:id="@+id/btn_info"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_role"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/bg_button"
+        android:text="@string/text_btn_info" />
+
+    <Button
+        android:id="@+id/btn_review"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btn_role"
+        android:layout_below="@+id/btn_actor"
+        android:background="@drawable/bg_button"
+        android:text="@string/text_btn_review" />
+
+</RelativeLayout>

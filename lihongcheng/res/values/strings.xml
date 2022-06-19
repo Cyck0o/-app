@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">让子弹飞</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_info">电影简介</string>
+    <string name="title_activity_role">角色介绍</string>
+    <string name="title_activity_actor">演员介绍</string>
+    <string name="title_activity_review">电影影评</string>
+    <string name="text_btn_info">电影简介</string>
+    <string name="text_btn_role">角色介绍</string>
+    <string name="text_btn_actor">演员介绍</string>
+    <string name="text_btn_review">电影影评</string>
+    <string name="text_move_info">        \u3000《让子弹飞》是由姜文执导，姜文、周润发、葛优、刘嘉玲、陈坤、周韵、廖凡、姜武等主演的剧情片，于2010年12月16日在中国大陆上映。\n
+        \u3000该片讲述了悍匪张牧之摇身一变化名清官“马邦德”上任鹅城县长，并与镇守鹅城的恶霸黄四郎展开一场激烈争斗的故事。\n</string>
+    <string name="text_line11_title">中文名</string>
+    <string name="text_line11_content">让子弹飞</string>
+    <string name="text_line12_title">外文名</string>
+    <string name="text_line12_content">Let The Bullets Fly</string>
+    <string name="text_line21_title">类型</string>
+    <string name="text_line21_content">剧情、喜剧、动作、西部</string>
+    <string name="text_line22_title">制作人</string>
+    <string name="text_line22_content">马珂</string>
+    <string name="text_line31_title">导演</string>
+    <string name="text_line31_content">姜文</string>
+    <string name="text_line32_title">出品时间</string>
+    <string name="text_line32_content">2018年12月21日</string>
+    <string name="text_line41_title">出品公司</string>
+    <string name="text_line41_content">英皇电影、峨眉电影集团</string>
+    <string name="text_line42_title">上映时间</string>
+    <string name="text_line42_content">2010年12月16日</string>
+    <string name="txt_actor">hhh</string>
+    <string name="image">iamge</string>
+    <string name="title_activity_role_detail">RoleDetailActivity</string>
+    <string name="title_activity_add_review">AddReviewActivity</string>
+    <string name="title_activity_add_author">我要写影评</string>
+    <string name="title_activity_add_content">影评内容</string>
+    <string name="title_activity_add_r">AddRActivity</string>
+    <string name="title_activity_start">StartActivity</string>
+
+</resources>
